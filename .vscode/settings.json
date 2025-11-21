@@ -1,0 +1,14 @@
+{
+   "editor.tabSize": 3,
+   "editor.insertSpaces": true,
+   "editor.detectIndentation": false,
+   "python.formatting.indentSize": 3,
+   "[python]": {
+      "editor.tabSize": 3,
+      "editor.insertSpaces": true
+   },
+   "[json]": {
+      "editor.tabSize": 3,
+      "editor.insertSpaces": true
+   }
+}

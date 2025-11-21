@@ -1,0 +1,2939 @@
+[
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "AAS Player",
+    "Manufacturer": "AAS",
+    "Description": "Multi preset player",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "ACE",
+    "Manufacturer": "u-he",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "AcidBox",
+    "Manufacturer": "Audio Blast",
+    "Description": "Acid 303",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Ana 2",
+    "Manufacturer": "Sonic Academy",
+    "Description": "Wavetable Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Analog Lab V",
+    "Manufacturer": "Arturia",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Anukari",
+    "Manufacturer": "Anukari",
+    "Description": "Physical Modelling Synth",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Ascension",
+    "Manufacturer": "Cubic Audio",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Atlas",
+    "Manufacturer": "Algonaut",
+    "Description": "Drum map",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Atoms",
+    "Manufacturer": "Baby Audio",
+    "Description": "Physical Modelling Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "AlborosieDubStation",
+    "Manufacturer": "Audio Thing",
+    "Description": "Delay",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "BA 1",
+    "Manufacturer": "Baby Audio",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Baervaag",
+    "Manufacturer": "Klevgrand",
+    "Description": "FM Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Bass Station",
+    "Manufacturer": "GForce/Novation",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Bass Tone X",
+    "Manufacturer": "Soundfingers",
+    "Description": "Bass Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Bazille",
+    "Manufacturer": "u-he",
+    "Description": "Modular Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "BBC Symphony Orchestra",
+    "Manufacturer": "Spitfire Audio",
+    "Description": "Modeled Orchestra",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Beat Scholar",
+    "Manufacturer": "Modalics",
+    "Description": "Pizza Drums",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Blue Cat’s Patchwork Synth",
+    "Manufacturer": "Blue Cat",
+    "Description": "Host",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Borsta",
+    "Manufacturer": "Klevgrand",
+    "Description": "Percussion synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Collective",
+    "Manufacturer": "Tracktion",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Current",
+    "Manufacturer": "Minimal Audio",
+    "Description": "Mega synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Curve 2",
+    "Manufacturer": "Cable Guys",
+    "Description": "MSEG",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Diva",
+    "Manufacturer": "u-he",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Dread Drumz",
+    "Manufacturer": "Soundfingers",
+    "Description": "Drum synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Drumazon 2",
+    "Manufacturer": "D16",
+    "Description": "Drum machine",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Dub Stage Piano",
+    "Manufacturer": "Soundfingers",
+    "Description": "Piano Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "DUNE 3",
+    "Manufacturer": "Synapse",
+    "Description": "Osmose synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Dust",
+    "Manufacturer": "SoundMorph",
+    "Description": "Noise generator",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Elpiano",
+    "Manufacturer": "Klevgrand",
+    "Description": "Piano synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "EON-Arp",
+    "Manufacturer": "Modalics",
+    "Description": "ARP",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Eternal Arps",
+    "Manufacturer": "Pitch  Innovations",
+    "Description": "ARP",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Ethereal Melodica",
+    "Manufacturer": "Soundfingers",
+    "Description": "Melodica",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Everything Acoustic",
+    "Manufacturer": "Nightfox Audio",
+    "Description": "Acoustic",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Factoid 2",
+    "Manufacturer": "Anemone",
+    "Description": "Drum loop spliter",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Factorsynth 3",
+    "Manufacturer": "Anemone",
+    "Description": "Drum loop spliter - Merv approved",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Falcon",
+    "Manufacturer": "UVI",
+    "Description": "Mega synth",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Farfisa V",
+    "Manufacturer": "Arturia",
+    "Description": "Organ",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Filterscape VA",
+    "Manufacturer": "u-he",
+    "Description": "Synth",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Generate",
+    "Manufacturer": "New Fangled Audio",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Geoshred",
+    "Manufacturer": "Geoshred",
+    "Description": "Guitar Synth",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Halogen FM",
+    "Manufacturer": "GForce/Novation",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Handy Drums Reggae Standard",
+    "Manufacturer": "Goran Grooves",
+    "Description": "Drum synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Hats",
+    "Manufacturer": "Audio Thing",
+    "Description": "Hats",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Heritage Organ 2",
+    "Manufacturer": "Soundfingers",
+    "Description": "Morgan Heritage",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Hillman",
+    "Manufacturer": "Klevgrand",
+    "Description": "Lush synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Hive",
+    "Manufacturer": "u-he",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "impOSCar 3",
+    "Manufacturer": "GForce",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Jun-6 V",
+    "Manufacturer": "Arturia",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "JUNE",
+    "Manufacturer": "Audio Thing",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Jussi",
+    "Manufacturer": "Klevgrand",
+    "Description": "Vocal synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Kick 3",
+    "Manufacturer": "Sonic Academy",
+    "Description": "Kick synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Kick Ninja",
+    "Manufacturer": "The Him DSP",
+    "Description": "Kick synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "KickDrum",
+    "Manufacturer": "Audija",
+    "Description": "Kick synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Latin Percussion",
+    "Manufacturer": "Audio Thing",
+    "Description": "Drum machine",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Le Skank",
+    "Manufacturer": "Soundfingers",
+    "Description": "Guitar synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Loopcloud",
+    "Manufacturer": "Loopmasters",
+    "Description": "App link",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Loopcloud Sounds",
+    "Manufacturer": "Loopmasters",
+    "Description": "In DAW samples",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Loopmix",
+    "Manufacturer": "Audiomodern",
+    "Description": "Loop chopper",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Lounge Lizard EP 5",
+    "Manufacturer": "AAS",
+    "Description": "Piano synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Low",
+    "Manufacturer": "Beat Surfing",
+    "Description": "Low end",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "M1",
+    "Manufacturer": "Kord",
+    "Description": "Multi mode synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Massive Original",
+    "Manufacturer": "NI",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Microwave 1",
+    "Manufacturer": "Waldorf Music",
+    "Description": "Wavetable synth",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "MINDst Drums",
+    "Manufacturer": "Modalics",
+    "Description": "Drum synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Myth (EE)",
+    "Manufacturer": "Dawsome",
+    "Description": "Synth",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "N-Drums",
+    "Manufacturer": "Daaci",
+    "Description": "AI Drums",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Nepheton 2",
+    "Manufacturer": "D16",
+    "Description": "Drum machine",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Nithonat 2",
+    "Manufacturer": "D16",
+    "Description": "Drum machine",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Noises",
+    "Manufacturer": "Audio Thing",
+    "Description": "Noises",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Noisy 2",
+    "Manufacturer": "Expressive E",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Nok Cultural Ensemble",
+    "Manufacturer": "Spitfire Audio",
+    "Description": "World drums",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Pads",
+    "Manufacturer": "Klevgrand",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Papyrus Keys",
+    "Manufacturer": "Beatskillz",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Pendulate",
+    "Manufacturer": "New Fangled Audio",
+    "Description": "Much weirdness ensues",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Philicorda",
+    "Manufacturer": "Audio Thing",
+    "Description": "Organ synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Phoscyon 2",
+    "Manufacturer": "D16",
+    "Description": "Mega 303",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Pianoteq 9",
+    "Manufacturer": "Modartt",
+    "Description": "Piano synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Pigments",
+    "Manufacturer": "Arturia",
+    "Description": "Mega synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Playbeat 4",
+    "Manufacturer": "Audiomodern",
+    "Description": "Drum machine",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Plugin Buddy",
+    "Manufacturer": "Modalics",
+    "Description": "Plugin host",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Pocket Strings",
+    "Manufacturer": "Crow Hill",
+    "Description": "Free but good",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Podolski",
+    "Manufacturer": "u-he",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Prophet VS V",
+    "Manufacturer": "Arturia",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Psychedelic Guitars",
+    "Manufacturer": "Beastsamples",
+    "Description": "Guitar synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Rando 2",
+    "Manufacturer": "MonkeyC",
+    "Description": "Random samples",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "RANDOM",
+    "Manufacturer": "Beat Surfing",
+    "Description": "Random synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Rave Generator 3",
+    "Manufacturer": "Audio Blast",
+    "Description": "Great for stabs",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Reaktor 6",
+    "Manufacturer": "NI",
+    "Description": "Modular",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Redux",
+    "Manufacturer": "Renoise",
+    "Description": "Sampler",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Repro 1",
+    "Manufacturer": "u-he",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Repro 5",
+    "Manufacturer": "u-he",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Retro Synthstack",
+    "Manufacturer": "Nightfox Audio",
+    "Description": "Synth",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Rewind MIDI FX",
+    "Manufacturer": "MonkeyC",
+    "Description": "Replay",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Riffer 3",
+    "Manufacturer": "Audiomodern",
+    "Description": "Riffs good with UJAM Iron 🤘",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Sektor Synth",
+    "Manufacturer": "Initial Audio",
+    "Description": "Wavetable synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Serum 2",
+    "Manufacturer": "Xfer Records",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Sine Machine",
+    "Manufacturer": "Melatonin.dev",
+    "Description": "Additive Sines",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Skaka",
+    "Manufacturer": "Klevgrand",
+    "Description": "Percussion synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Slammer",
+    "Manufacturer": "Klevgrand",
+    "Description": "Percussion synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Soliste CLO",
+    "Manufacturer": "Soliste/EE",
+    "Description": "Cello",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Soliste DBS",
+    "Manufacturer": "Soliste/EE",
+    "Description": "Double Bass",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Soliste VLA",
+    "Manufacturer": "Soliste/EE",
+    "Description": "Viola",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Soliste VLN",
+    "Manufacturer": "Soliste/EE",
+    "Description": "Violin",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "SR-88",
+    "Manufacturer": "Audio Thing",
+    "Description": "Drum machine",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Strum GS 2",
+    "Manufacturer": "AAS",
+    "Description": "Guitar synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "SublabXL",
+    "Manufacturer": "Future Audio Workshop",
+    "Description": "Low end",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Syndt",
+    "Manufacturer": "Klevgrand",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Syndtsphere",
+    "Manufacturer": "Klevgrand",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Synplant 2",
+    "Manufacturer": "Sonic Charge",
+    "Description": "Weird synth",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Synthmaster 3",
+    "Manufacturer": "KV311 Audio",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "TAL-U-NO-LX",
+    "Manufacturer": "TAL",
+    "Description": "Juno clone",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "TAL-Noisemaker",
+    "Manufacturer": "TAL",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "TH5",
+    "Manufacturer": "Acustica",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "TH8",
+    "Manufacturer": "Acustica",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "The Legend HZ",
+    "Manufacturer": "Synapse Audio",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Tines",
+    "Manufacturer": "Klevgrand",
+    "Description": "Electric piano",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Tomofon",
+    "Manufacturer": "Klevgrand",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Triaz",
+    "Manufacturer": "Wave Alchemy",
+    "Description": "Drum samples",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Triple Cheese",
+    "Manufacturer": "u-he",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Twin 3",
+    "Manufacturer": "Fab Filter",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Polymax",
+    "Manufacturer": "UAD",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Unfiltered Audio LION",
+    "Manufacturer": "Unfiltered Audio",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "UVI Workstation",
+    "Manufacturer": "UVI",
+    "Description": "Mega synth",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "VCV Rack",
+    "Manufacturer": "VCV",
+    "Description": "Modular synth",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "VG-AMBER2",
+    "Manufacturer": "UJAM",
+    "Description": "Guitar synth",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "VG-CARBON",
+    "Manufacturer": "UJAM",
+    "Description": "Guitar synth",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "VG-IRON2",
+    "Manufacturer": "UJAM",
+    "Description": "Guitar synth",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "VG-SILK2",
+    "Manufacturer": "UJAM",
+    "Description": "Guitar synth",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Vital",
+    "Manufacturer": "Vital",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Vocaloid",
+    "Manufacturer": "Yamaha",
+    "Description": "Voice synth",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "XO",
+    "Manufacturer": "XLN",
+    "Description": "Drum map",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Yellowjacket",
+    "Manufacturer": "Cherry Audio",
+    "Description": "Keeping this one!",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Zebra 2",
+    "Manufacturer": "u-he",
+    "Description": "Synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Zebralette 3 beta",
+    "Manufacturer": "u-he",
+    "Description": "Synth",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "Zyklop",
+    "Manufacturer": "Dawsome",
+    "Description": "Synth",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Alborosie Dub Station",
+    "Manufacturer": "Audio Thing",
+    "Description": "Delay",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Anukari Effect",
+    "Manufacturer": "Anukari",
+    "Description": "Physical Modelling FX",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Arguments",
+    "Manufacturer": "Audio Thing",
+    "Description": "Weird FX",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Autochroma",
+    "Manufacturer": "imagi.ro",
+    "Description": "Granular effects",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "BC Connector",
+    "Manufacturer": "Blue Cat",
+    "Description": "Routing",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "BC Gain 3 (Dual)",
+    "Manufacturer": "Blue Cat",
+    "Description": "Gain",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "BC Gain 3 (Monol)",
+    "Manufacturer": "Blue Cat",
+    "Description": "Gain",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "BC Gain 3 (Stereo)",
+    "Manufacturer": "Blue Cat",
+    "Description": "Gain",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "BC Patchwork",
+    "Manufacturer": "Blue Cat",
+    "Description": "Host",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "BC Re-Guitar",
+    "Manufacturer": "Blue Cat",
+    "Description": "Les Paul to Strat 😮",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Brusfri",
+    "Manufacturer": "Klevgrand",
+    "Description": "Guitar noise reduction",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Chorus Jun 6",
+    "Manufacturer": "Arturia",
+    "Description": "Chorus",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Clarity Delay",
+    "Manufacturer": "Raytown Productions",
+    "Description": "Delay",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Cluster Delay",
+    "Manufacturer": "Minimal Audio",
+    "Description": "Delay",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Colour Copy",
+    "Manufacturer": "u-he",
+    "Description": "Delay",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Convex",
+    "Manufacturer": "Glitchmachines",
+    "Description": "Sound mangler",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Convology XT",
+    "Manufacturer": "Wave Arts",
+    "Description": "Convolution reverb",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Cross Polinator",
+    "Manufacturer": "The BDSP",
+    "Description": "Delay",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Crystalline",
+    "Manufacturer": "Baby Audio",
+    "Description": "Algorithmic reverb",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "dBdone",
+    "Manufacturer": "dBdone",
+    "Description": "Line to dBdone",
+    "Invsestigate": ""
+  },
+  { 
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "dearVR MIX-SE",
+    "Manufacturer": "Sennheiser",
+    "Description": "3D Panner",
+    "Invsestigate": "✅"
+
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Delay Tape 201",
+    "Manufacturer": "Arturia",
+    "Description": "Delay (Space Echo)",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "DelaySon",
+    "Manufacturer": "Sonimus",
+    "Description": "Delay",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Devastor 2",
+    "Manufacturer": "D16",
+    "Description": "Distortion",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Dials",
+    "Manufacturer": "Audio Thing",
+    "Description": "Extreme Filter",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Diffuse",
+    "Manufacturer": "Surreal Machines",
+    "Description": "Delay",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "dpMeter 5",
+    "Manufacturer": "TB Pro Audio",
+    "Description": "Lufs’n’stuff",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "DS10 Drum Shaper",
+    "Manufacturer": "XLN",
+    "Description": "Drum shaper",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Dual Delay X",
+    "Manufacturer": "UVI",
+    "Description": "Delay",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Dub Filter",
+    "Manufacturer": "Audio Thing",
+    "Description": "Filter",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Dub Station 2",
+    "Manufacturer": "Audio Damage",
+    "Description": "Delay",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "DustFX",
+    "Manufacturer": "Sound Morph",
+    "Description": "Who knows?",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Echo Cat",
+    "Manufacturer": "Waves Factory",
+    "Description": "Delay",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Echobode",
+    "Manufacturer": "Soniccharge",
+    "Description": "Delay",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Echoes T7E mkII",
+    "Manufacturer": "Audiority",
+    "Description": "Delay",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Evoke",
+    "Manufacturer": "Minimal Audio",
+    "Description": "Multi FX",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Filter MS-20",
+    "Manufacturer": "Arturia",
+    "Description": "Distortion",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "FilterJam",
+    "Manufacturer": "Audio Thing",
+    "Description": "Filter",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Filterscape",
+    "Manufacturer": "u-he",
+    "Description": "Filter",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Filterscape Q6",
+    "Manufacturer": "u-he",
+    "Description": "Filter",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "FilterShaper XL",
+    "Manufacturer": "Cable Guys",
+    "Description": "MSEG Filter",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Filterstep",
+    "Manufacturer": "Audiomodern",
+    "Description": "MSEG Filter",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "FKFX Influx",
+    "Manufacturer": "FKFX Audio",
+    "Description": "Sound mangler",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Flair",
+    "Manufacturer": "NI",
+    "Description": "Flanger",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Flex Chorus",
+    "Manufacturer": "Minimal Audio",
+    "Description": "Chorus",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Flux Pro",
+    "Manufacturer": "Caelum Audio",
+    "Description": "Multi FX",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Fog Convolver 2",
+    "Manufacturer": "Audio Thing",
+    "Description": "Convolution reverb",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Formant",
+    "Manufacturer": "Minimal Audio",
+    "Description": "Filter",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Fosfat",
+    "Manufacturer": "Klevgrand",
+    "Description": "Transient shaper",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Fracture XT",
+    "Manufacturer": "Glitchmachines",
+    "Description": "Sound mangler",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Freak",
+    "Manufacturer": "NI",
+    "Description": "Sound mangler",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Frontier",
+    "Manufacturer": "D16",
+    "Description": "Limiter",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Fuse Compressor",
+    "Manufacturer": "Minimal Audio",
+    "Description": "Compressor",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Gatelab",
+    "Manufacturer": "Audiomodern",
+    "Description": "MSEG",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Gong Amp",
+    "Manufacturer": "Audiomodern",
+    "Description": "Sound mangler",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Graindad",
+    "Manufacturer": "Sugar Bytes",
+    "Description": "Sound mangler",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Grand Finale",
+    "Manufacturer": "Klevgrand",
+    "Description": "Finisher",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "GRFX",
+    "Manufacturer": "Imaginando",
+    "Description": "Granular effects",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Guitar Rig 7",
+    "Manufacturer": "NI",
+    "Description": "Guitar FX",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Halftime",
+    "Manufacturer": "Cable Guys",
+    "Description": "Time distortion",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Humanoid",
+    "Manufacturer": "Baby Audio",
+    "Description": "Vocoder",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Hybrid Filter",
+    "Manufacturer": "Minimal Audio",
+    "Description": "Filter",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "I❤️NY",
+    "Manufacturer": "Baby Audio",
+    "Description": "Compressor",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Infiltrator",
+    "Manufacturer": "Devious Machines",
+    "Description": "Sound mangler",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "K7D",
+    "Manufacturer": "Imaginando",
+    "Description": "Delay",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "KClip3",
+    "Manufacturer": "Kazrog",
+    "Description": "Clipper",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "The Legend HZ FX",
+    "Manufacturer": "Synapse Audio",
+    "Description": "FX",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Lines",
+    "Manufacturer": "Audio Thing",
+    "Description": "Sound mangler",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Lofi Spring",  
+    "Manufacturer": "Wave Alchemy",
+    "Description": "Spring Reverb",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Mantis",
+    "Manufacturer": "Audio Thing",
+    "Description": "Delay",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "MF103F",
+    "Manufacturer": "Moog",
+    "Description": "Moogerfooger phaser",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "MF108S",
+    "Manufacturer": "Moog",
+    "Description": "Moogerfooger chorus",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "MFM2",
+    "Manufacturer": "u-he",
+    "Description": "Delay",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "MIDI Guitar 3",
+    "Manufacturer": "Jam Origin",
+    "Description": "Guitar to MIDI",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "MIDI Shaper",
+    "Manufacturer": "Cable Guys",
+    "Description": "MSEG",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "miniVerb",
+    "Manufacturer": "Audio Thing",
+    "Description": "Reverb",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Modley",
+    "Manufacturer": "Klevgrand",
+    "Description": "Delay",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Modnetic",
+    "Manufacturer": "Surreal Machines",
+    "Description": "Delay",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Moon Echo",
+    "Manufacturer": "Audio Thing",
+    "Description": "Delay",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Morph EQ",
+    "Manufacturer": "Minimal Audio",
+    "Description": "EQ",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Objeq Delay",
+    "Manufacturer": "AAS",
+    "Description": "Delay",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Obliterate",
+    "Manufacturer": "New Fangled Audio",
+    "Description": "Distortion",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Orion",
+    "Manufacturer": "Cradle",
+    "Description": "Drum fixer",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "OScope",
+    "Manufacturer": "Audija",
+    "Description": "Meter",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Other Desert Cities",
+    "Manufacturer": "Audio Damage",
+    "Description": "Delay",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "OTT",
+    "Manufacturer": "Xfer Records",
+    "Description": "Compressor",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Outer Space 2",
+    "Manufacturer": "Audio Thing",
+    "Description": "Delay (Space Echo)",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Pana",
+    "Manufacturer": "Klevgrand",
+    "Description": "Panner",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Panflow",
+    "Manufacturer": "Audiomodern",
+    "Description": "MSEG for panning",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "PaulXStretch",
+    "Manufacturer": "Sonosaurus",
+    "Description": "Sample stretch",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Permut8",
+    "Manufacturer": "Sonic Charge",
+    "Description": "Sound mangler",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Phantomix",
+    "Manufacturer": "Muramasa Audio",
+    "Description": "Multi FX",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "PhaseMistress",
+    "Manufacturer": "Soundtoys",
+    "Description": "Phaser",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Phasis",
+    "Manufacturer": "NI",
+    "Description": "Phaser",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Pluralis",
+    "Manufacturer": "Soundevice Digital",
+    "Description": "Delay",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Polaris",
+    "Manufacturer": "Audiority",
+    "Description": "Delay",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "PSP Step Delay",
+    "Manufacturer": "PSP Audioware",
+    "Description": "Delay",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "PsyAmp",
+    "Manufacturer": "Beastsamples",
+    "Description": "Trippy amp",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Røverb",
+    "Manufacturer": "Klevgrand",
+    "Description": "Reverb",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Raum",
+    "Manufacturer": "NI",
+    "Description": "Reverb",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "RC-20 Retro Color",
+    "Manufacturer": "XLN",
+    "Description": "Sound mangler",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Reaktor 6 FX",
+    "Manufacturer": "NI",
+    "Description": "Modular synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Recirculate",
+    "Manufacturer": "New Fangled Audio",
+    "Description": "Sound mangler",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Redoptor 2",
+    "Manufacturer": "D16",
+    "Description": "Distortion",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Reels",
+    "Manufacturer": "Audio Thing",
+    "Description": "Tape echo",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Repeater",
+    "Manufacturer": "D16",
+    "Description": "Delay",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Replika XT",
+    "Manufacturer": "NI",
+    "Description": "Delay",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Rewind",
+    "Manufacturer": "MonkeyC",
+    "Description": "Retrospective capture",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Richter",
+    "Manufacturer": "Klevgrand",
+    "Description": "Compressor",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Rift",
+    "Manufacturer": "Minimal Audio",
+    "Description": "Distortion",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Rift Feedback Lite",
+    "Manufacturer": "Minimal Audio",
+    "Description": "Distortion",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Rift Filter Lite",
+    "Manufacturer": "Minimal Audio",
+    "Description": "Filter",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "RipLink",
+    "Manufacturer": "RipX",
+    "Description": "DAW to RipX link",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Ripple Phaser",
+    "Manufacturer": "Minimal Audio",
+    "Description": "Phaser",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Rum",
+    "Manufacturer": "Klevgrand",
+    "Description": "Reverb",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "ShowMIDI",
+    "Manufacturer": "Peter N Nicholls",
+    "Description": "MIDI monitor",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Serum 2 FX",
+    "Manufacturer": "Xfer Records",
+    "Description": "Multi FX",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Shaperbox 3",
+    "Manufacturer": "Cable Guys",
+    "Description": "MSEG",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Sigmund 2",
+    "Manufacturer": "D16",
+    "Description": "Delay",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Silencer",
+    "Manufacturer": "Wide Blue Sound",
+    "Description": "Reverb enhancer",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Sloom",
+    "Manufacturer": "Anemond",
+    "Description": "Time stretcher",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Snapback",
+    "Manufacturer": "Cable Guys",
+    "Description": "Drum layering",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Space Station UM282",
+    "Manufacturer": "Audiority",
+    "Description": "Delay (Good presets)",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "SpaceTrip",
+    "Manufacturer": "Audio Thing",
+    "Description": "Modular channel strip",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Spaced Out",
+    "Manufacturer": "Baby Audio",
+    "Description": "Delay",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "SplitEQ",
+    "Manufacturer": "Eventide",
+    "Description": "EQ",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Springs",
+    "Manufacturer": "Audio Thing",
+    "Description": "Spring reverbs",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Stark",
+    "Manufacturer": "Klevgrand",
+    "Description": "Guitar FX",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Subvert2",
+    "Manufacturer": "Glitchmachines",
+    "Description": "Sound mangler",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Swarm Reverb",
+    "Manufacturer": "Minimal Audio",
+    "Description": "Reverb",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Tekturon",
+    "Manufacturer": "D16",
+    "Description": "Delay",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "The Glue",
+    "Manufacturer": "Cytomic",
+    "Description": "Glue compressor",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "The God Particle",
+    "Manufacturer": "Cradle",
+    "Description": "Finisher",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "The Orb",
+    "Manufacturer": "Audio Thing",
+    "Description": "Formant filter",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Things Bubbles",
+    "Manufacturer": "Audio Thing",
+    "Description": "Delay (Filter)",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Things Crusher",
+    "Manufacturer": "Audio Thing",
+    "Description": "Bit crusher and filter",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Things Flip",
+    "Manufacturer": "Audio Thing",
+    "Description": "Tilting EQ",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Things Folder",
+    "Manufacturer": "Audio Thing",
+    "Description": "Dynamic Wavefolder",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Things Motor",
+    "Manufacturer": "Audio Thing",
+    "Description": "Rotor effect",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Things Texture",
+    "Manufacturer": "Audio Thing",
+    "Description": "Granular reverb",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Things Voice",
+    "Manufacturer": "Audio Thing",
+    "Description": "Compressor",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Time Oddity",
+    "Manufacturer": "Modalics",
+    "Description": "Chorus",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "ToneLib-GFX",
+    "Manufacturer": "ToneLib",
+    "Description": "Guitar FX",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Tonocracy",
+    "Manufacturer": "Tonocracy",
+    "Description": "Guitar FX",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Topos",
+    "Manufacturer": "Forever 89",
+    "Description": "Visual distortion",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Trackspacer 2.5",
+    "Manufacturer": "Waves Factory",
+    "Description": "Track spacer",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Transit 2",
+    "Manufacturer": "Baby Audio",
+    "Description": "Rise… drop.",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Trash",
+    "Manufacturer": "Ni",
+    "Description": "Distortion",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Tungsten",
+    "Manufacturer": "Green Oak",
+    "Description": "Delay",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "V-Pan",
+    "Manufacturer": "Rhodes",
+    "Description": "Variable panning",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Valhalla Delay",
+    "Manufacturer": "Valhalla DSP",
+    "Description": "Delay",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Valhalla FreqEcho",
+    "Manufacturer": "Valhalla DSP",
+    "Description": "Frequency mangling",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Valhalla FutureVerb",
+    "Manufacturer": "Valhalla DSP",
+    "Description": "Reverb and more",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Valhalla Plate",
+    "Manufacturer": "Valhalla DSP",
+    "Description": "Plate reverb",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Valhalla SpaceModulator",
+    "Manufacturer": "Valhalla DSP",
+    "Description": "Weirdness ensues…",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Valhalla SuperMassive",
+    "Manufacturer": "Valhalla DSP",
+    "Description": "Delay and reverb",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Valves",
+    "Manufacturer": "Audio Thing",
+    "Description": "Warm and glowing…",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "VCV Rack FX",
+    "Manufacturer": "VCV",
+    "Description": "Modular FX",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Vocaloid Bridge",
+    "Manufacturer": "Yamaha",
+    "Description": "Bridge for ARA plugins?",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Wave Shifter",
+    "Manufacturer": "Minimal Audio",
+    "Description": "Wave modulation",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Wider",
+    "Manufacturer": "Infected Mushroom",
+    "Description": "Pan FX",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Wires",
+    "Manufacturer": "Audio Thing",
+    "Description": "Sound mangler",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Zebrify",
+    "Manufacturer": "u-he",
+    "Description": "Zebra FX",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "ZRev",
+    "Manufacturer": "u-he",
+    "Description": "Extracted Zebra reverb",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Uhbik Ambience",
+    "Manufacturer": "u-he",
+    "Description": "Reverb",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Uhbik Compressor",
+    "Manufacturer": "u-he",
+    "Description": "Compressor",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Uhbik Delay",
+    "Manufacturer": "u-he",
+    "Description": "Delay",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Uhbik EQ",
+    "Manufacturer": "u-he",
+    "Description": "EQ",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Uhbik Flanger",
+    "Manufacturer": "u-he",
+    "Description": "Flanger",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Uhbik Grainshift",
+    "Manufacturer": "u-he",
+    "Description": "Granular",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Uhbin Phaser",
+    "Manufacturer": "u-he",
+    "Description": "Phaser",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Uhbik Runciter",
+    "Manufacturer": "u-he",
+    "Description": "Sound mangler",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Uhbik Shiffter",
+    "Manufacturer": "u-he",
+    "Description": "Filter",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Uhbik Tremolo",
+    "Manufacturer": "u-he",
+    "Description": "Tremolo",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Century Tube Channel Strip",
+    "Manufacturer": "UAD",
+    "Description": "A vintage tube preamp + 3-band EQ + optical compressor channel strip for quick warm analogue-flavour tone",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Helios Type 69",
+    "Manufacturer": "UAD",
+    "Description": "An emulation of the classic Helios® Type 69 mic preamp & EQ module delivering bright punchy console character",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Manley VOXBOX",
+    "Manufacturer": "UAD",
+    "Description": "A high-end all-tube vocal channel strip including tube preamp, passive EQ, optical compressor & de-esser",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Neve 1073",
+    "Manufacturer": "UAD",
+    "Description": "A legendary class-A mic/line preamp with 3-band EQ emulation, providing clarity, grit and “Neve sound.”amp + EQ",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Precision Channel Strip",
+    "Manufacturer": "UAD",
+    "Description": "A modern channel-strip combining preamp, EQ, dynamics and filters",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD UA 610-A",
+    "Manufacturer": "UAD",
+    "Description": "UA 610-A tube preamp & EQ offering rich vintage tube tone and flexible EQ shaping",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD UA 610-B",
+    "Manufacturer": "UAD",
+    "Description": "Like the UA 610-A but focused on additional tonal shaping with similar tube character",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Fairchild 660",
+    "Manufacturer": "UAD",
+    "Description": "Mono Fairchild tube limiter/ compressor, known for deep punch and harmonic richness",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Fairchild 670 Legacy",
+    "Manufacturer": "UAD",
+    "Description": "A legacy version of the stereo Fairchild delivering classic glue and warmth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Fairchild 670",
+    "Manufacturer": "UAD",
+    "Description": "Stereo Fairchild limiter/ compressor emulation offering premium tube dynamics",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Teletronix LA-2",
+    "Manufacturer": "UAD",
+    "Description": "A classic optical tube leveling amplifier emulation with smooth, musical compression",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Teletronix LA-2A Gray",
+    "Manufacturer": "UAD",
+    "Description": "A variant of the LA-2A with medium time-constants and slightly different character.",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Teletronix LA-2A Legacy",
+    "Manufacturer": "UAD",
+    "Description": "Legacy version of the LA-2A, with the same optical tube leveling behaviour for old workflows",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Teletronix LA-2A Silver",
+    "Manufacturer": "UAD",
+    "Description": "Variant of the LA-2A, with faster response and more aggressive character.",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD UA 1176 Rev A",
+    "Manufacturer": "UAD",
+    "Description": "The Rev A “Blue Stripe” FET compressor/limiter emulation delivering early-1176 punch, speed and attitude",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD UA 1176AE",
+    "Manufacturer": "UAD",
+    "Description": "A variant of the 1176 family (AE version) offering the FET compressor character with alternate sonic flavour",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD UA 1176LN Legacy",
+    "Manufacturer": "UAD",
+    "Description": "The legacy version of the 1176LN emulation (line version) offering classic limiting behaviour for older mixes",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD UA 1176LN Rev E",
+    "Manufacturer": "UAD",
+    "Description": "The Rev E line version of the 1176 offering modern headroom with the vintage FET sound and “all-button” mode",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD UA 1176SE Legacy",
+    "Manufacturer": "UAD",
+    "Description": "A legacy special edition 1176 offering unique transformer and timing characteristics for character mixing",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Galaxy Tape Echo",
+    "Manufacturer": "UAD",
+    "Description": "A tape-echo + spring-reverb inspired by’70s delay hardware, offering warble, character and self-oscillation",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Precision Delay Mod L",
+    "Manufacturer": "UAD",
+    "Description": "A long-form version of the Precision Delay Modulation offering extended delay + modulation for creative effects",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Precision Delay Mod",
+    "Manufacturer": "UAD",
+    "Description": "Modern multi-mode modulation delay plug-in from the Precision series offering clean digital delay and mod features.",
+    "Invsestigate": "✅"
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Helios Type 69 Legacy",
+    "Manufacturer": "UAD",
+    "Description": "The legacy version of the Helios Type 69 preamp & EQ emulation, for those using older workflows or vintage sound",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Neve 1073 Legacy",
+    "Manufacturer": "UAD",
+    "Description": "The legacy version of the Neve 1073 emulation offering the same class-A preamp/EQ character for traditional mixes",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Neve 1073SE Legacy",
+    "Manufacturer": "UAD",
+    "Description": "A special edition legacy version of the Neve 1073 with alternate transformer/timing characteristics for unique sonic tone",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Pultec EQP-1A Legacy",
+    "Manufacturer": "UAD",
+    "Description": "The legacy version of the Pultec passive tube program EQ emulation famed for smooth lows and airy highs",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Pultec EQP-1A",
+    "Manufacturer": "UAD",
+    "Description": "The current version of the Pultec passive tube program EQ emulation delivering the same classic boost/cut dual-action tone",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Pultec HLF-3C",
+    "Manufacturer": "UAD",
+    "Description": "A passive high/low-frequency filter unit emulation from the Pultec line for broad tonal shaping and vintage character",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Pultec MEQ-5",
+    "Manufacturer": "UAD",
+    "Description": "A mid-range specialist passive EQ emulation from Pultec designed to sculpt the “power region” (e.g., 200-8 kHz)",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Pultec-Pro Legacy",
+    "Manufacturer": "UAD",
+    "Description": "A legacy advanced version of the Pultec passive EQ family offering additional controls and their vintage tone",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Ampeg SVTVR Classic",
+    "Manufacturer": "UAD",
+    "Description": "A faithful emulation of the Ampeg SVT-VR classic tube bass amplifier shaping big, thick low-end tone",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Marshall Plexi Classic",
+    "Manufacturer": "UAD",
+    "Description": "A model of the Marshall Plexi guitar amplifier emulation delivering iconic crunchy rock tones from the ’60s/’70s",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Raw",
+    "Manufacturer": "UAD",
+    "Description": "A distortion/saturation plug-in from UAD offering raw transformer/tube-inspired grit and creative aggressive tone",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Auto-Tune Realtime Advanced",
+    "Manufacturer": "UAD",
+    "Description": "A real-time version of the Antares Auto-Tune pitch correction and modulation tool integrated into the UAD ecosystem",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Precision Reflection Engine",
+    "Manufacturer": "UAD",
+    "Description": "A modern advanced room-/plate-/hall-modeling reverb plug-in from the Precision series for immersive spatial processing",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD Pure Plate",
+    "Manufacturer": "",
+    "Description": "A high-quality plate-reverb emulation delivering smooth, lush ambient space with vintage plate character",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD RealVerb-Pro",
+    "Manufacturer": "UAD",
+    "Description": "A powerful room-modeling reverb plug-in offering flexible custom spaces, early-/late-reflections and vintage-to-modern tone",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "Console Recall",
+    "Manufacturer": "UAD",
+    "Description": "The UAD Console application plug-in interface for managing Apollo/UAD hardware I/O and inserting UAD plug-ins in real-time",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "UAD CS-1",
+    "Manufacturer": "UAD",
+    "Description": "A channel-strip emulation from UAD combining preamp, EQ and dynamics in a streamlined workflow for tracking and mixing",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "uaudio_century_channel_strip",
+    "Manufacturer": "UAD",
+    "Description": "A vintage tube preamp + 3-band EQ + optical compressor channel strip for quick warm analogue-flavour tone",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "uaudio_fairchild_660",
+    "Manufacturer": "UAD",
+    "Description": "Mono Fairchild tube limiter/ compressor, known for deep punch and harmonic richness",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "uaudio_fairchild_670",
+    "Manufacturer": "UAD",
+    "Description": "Stereo Fairchild limiter/ compressor emulation offering premium tube dynamics",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "uaudio_galaxy_tape_echo",
+    "Manufacturer": "UAD",
+    "Description": "A tape-echo + spring-reverb inspired by’70s delay hardware, offering warble, character and self-oscillation",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "uaudio_helios_type_69",
+    "Manufacturer": "UAD",
+    "Description": "An emulation of the classic Helios® Type 69 mic preamp & EQ module delivering bright punchy console character",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "uaudio_manley_voxbox",
+    "Manufacturer": "UAD",
+    "Description": "A high-end all-tube vocal channel strip including tube preamp, passive EQ, optical compressor & de-esser",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "uaudio_neve_1073",
+    "Manufacturer": "UAD",
+    "Description": "A legendary class-A mic/line preamp with 3-band EQ emulation, providing clarity, grit and “Neve sound.”amp + EQ",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "Instrument",
+    "Name": "uaudio_polymax",
+    "Manufacturer": "UAD",
+    "Description": "Polymer synth",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "uaudio_pultec_eqp-1a",
+    "Manufacturer": "UAD",
+    "Description": "Pultec tube program EQ, famous for its smooth lows and airy highs",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "uaudio_pultec_hlf-3c",
+    "Manufacturer": "UAD",
+    "Description": "Pultec HLF-3C passive low/high-cut filter unit",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "uaudio_pultec_meq-5",
+    "Manufacturer": "UAD",
+    "Description": "Pultec MEQ-5, designed for rich mids with boost/dip flexibility",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "uaudio_pure_plate",
+    "Manufacturer": "UAD",
+    "Description": "UAD Pure Plate - a high-quality plate reverb",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "uaudio_teletronix_la-2",
+    "Manufacturer": "UAD",
+    "Description": "Optical tube leveling amplifier emulation",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "uaudio_teletronix_la-2a_gray",
+    "Manufacturer": "UAD",
+    "Description": "A version with medium-time constants",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "uaudio_teletronix_la-2a_silver",
+    "Manufacturer": "UAD",
+    "Description": "Variant of the LA-2A series with faster response",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "uaudio_teletronix_la-2a_tc",
+    "Manufacturer": "UAD",
+    "Description": "A variant of the LA-2A with refined timing behaviour for dynamic control",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "uaudio_ua_1176_rev_a",
+    "Manufacturer": "UAD",
+    "Description": "1176 character with bold colour and fast FET attack",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "uaudio_ua_1176ae",
+    "Manufacturer": "UAD",
+    "Description": "FET character for hit-making punch and attitude",
+    "Invsestigate": ""
+  },
+  {
+    "": "",
+    "Plugin Type": "FX",
+    "Name": "uaudio_ua_1176ln_rev_e",
+    "Manufacturer": "UAD",
+    "Description": "Modernised headroom and the all-button overload option",
+    "Invsestigate": ""
+  }
+]
