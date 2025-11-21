@@ -5,11 +5,10 @@ Textual Plugin Viewer - Browse and search your plugin collection
 
 import json
 from pathlib import Path
-from typing import List, Dict, Tuple
+from typing import List, Dict
 
 from textual.app import App, ComposeResult
 from textual.containers import Container, Vertical
-from textual.reactive import reactive
 from textual.widgets import DataTable, Footer, Header, Input, Static
 from textual.binding import Binding
 
@@ -18,40 +17,37 @@ class PluginViewer(App):
    """A Textual app to view plugin data with search and sort."""
 
    CSS = """
-    Screen {
-        background: $surface;
-    }
+   Screen {
+      background: $surface;
+   }
 
-    #search-container {
-        height: 3;
-        margin: 1 1 0 1;
-        padding: 1;
-        background: $panel;
-        border: solid $primary;
-    }
+   .top-section {
+      height: 5;
+      margin: 1;
+   }
 
-    #search-input {
-        width: 100%;
-    }
+   #search-box {
+      width: 100%;
+      height: 3;
+   }
 
-    #stats {
-        height: 2;
-        margin: 0 1;
-        color: $text-muted;
-        text-align: right;
-    }
+   #stats-text {
+      width: 100%;
+      height: 2;
+      content-align: right middle;
+   }
 
-    #table-container {
-        margin: 1;
-        height: 1fr;
-        border: solid $primary;
-    }
+   #table-section {
+      margin: 0 1 1 1;
+      height: 1fr;
+      border: solid $primary;
+   }
 
-    DataTable {
-        width: 100%;
-        height: 100%;
-    }
-    """
+   DataTable {
+      width: 100%;
+      height: 100%;
+   }
+   """
 
    BINDINGS = [
       Binding("q", "quit", "Quit"),
@@ -65,22 +61,19 @@ class PluginViewer(App):
       self.filtered_plugins: List[Dict] = []
       self.sort_key: str = "name"
       self.sort_reverse: bool = False
-      self.search_query: str = ""
 
    def compose(self) -> ComposeResult:
       """Create the layout."""
       yield Header()
 
-      with Container(id="search-container"):
+      with Container(classes="top-section"):
          yield Input(
             placeholder="Search plugins... (Name, Manufacturer, Description)",
-            id="search-input",
+            id="search-box",
          )
+         yield Static("Showing 0 of 0 plugins", id="stats-text")
 
-      with Vertical(id="stats-container"):
-         yield Static("Showing 0 of 0 plugins", id="stats")
-
-      with Container(id="table-container"):
+      with Container(classes="table-section"):
          yield DataTable(id="plugins-table")
 
       yield Footer()
@@ -95,7 +88,7 @@ class PluginViewer(App):
       """Load plugins from JSON file."""
       plugins_path = Path(__file__).parent / "Plugins.json"
       try:
-         with open(plugins_path, "r") as f:
+         with open(plugins_path, 'r') as f:
             self.plugins = json.load(f)
          self.filtered_plugins = self.plugins.copy()
          self.title = f"Plugin Viewer - {len(self.plugins)} plugins"
@@ -123,8 +116,6 @@ class PluginViewer(App):
       table.zebra_stripes = True
       table.cursor_type = "row"
 
-      table.focus()
-
    def populate_table(self) -> None:
       """Fill the table with plugin data."""
       table = self.query_one("#plugins-table", DataTable)
@@ -141,12 +132,12 @@ class PluginViewer(App):
 
       total = len(self.plugins)
       shown = len(self.filtered_plugins)
-      self.query_one("#stats", Static).update(f"Showing {shown} of {total} plugins")
+      self.query_one("#stats-text", Static).update(
+         f"Showing {shown} of {total} plugins"
+      )
 
    def filter_plugins(self, query: str) -> None:
       """Filter plugins based on search query."""
-      self.search_query = query
-
       if not query.strip():
          self.filtered_plugins = self.plugins.copy()
       else:
@@ -154,15 +145,13 @@ class PluginViewer(App):
          self.filtered_plugins = []
 
          for plugin in self.plugins:
-            searchable_text = " ".join(
-               [
-                  plugin.get("Name", ""),
-                  plugin.get("Manufacturer", ""),
-                  plugin.get("Description", ""),
-                  plugin.get("Plugin Type", ""),
-                  plugin.get("Invsestigate", ""),
-               ]
-            ).lower()
+            searchable_text = " ".join([
+               plugin.get("Name", ""),
+               plugin.get("Manufacturer", ""),
+               plugin.get("Description", ""),
+               plugin.get("Plugin Type", ""),
+               plugin.get("Invsestigate", ""),
+            ]).lower()
 
             if query_lower in searchable_text:
                self.filtered_plugins.append(plugin)
@@ -218,21 +207,21 @@ class PluginViewer(App):
 
    def on_input_submitted(self, event: Input.Submitted) -> None:
       """Handle search input submission."""
-      if event.input.id == "search-input":
+      if event.input.id == "search-box":
          self.filter_plugins(event.value)
 
    def on_input_changed(self, event: Input.Changed) -> None:
       """Handle live search as user types."""
-      if event.input.id == "search-input":
+      if event.input.id == "search-box":
          self.filter_plugins(event.value)
 
    def action_focus_search(self) -> None:
       """Focus the search input."""
-      self.query_one("#search-input", Input).focus()
+      self.query_one("#search-box", Input).focus()
 
    def action_clear_search(self) -> None:
       """Clear the search and show all plugins."""
-      search_input = self.query_one("#search-input", Input)
+      search_input = self.query_one("#search-box", Input)
       search_input.value = ""
       self.filtered_plugins = self.plugins.copy()
       self.sort_plugins()
