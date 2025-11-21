@@ -53,6 +53,7 @@ class PluginViewer(App):
       Binding("q", "quit", "Quit"),
       Binding("/", "focus_search", "Search"),
       Binding("r", "clear_search", "Clear Search"),
+      Binding("tab", "toggle_focus", "Toggle Focus"),
    ]
 
    def __init__(self):
@@ -77,12 +78,6 @@ class PluginViewer(App):
          yield DataTable(id="plugins-table")
 
       yield Footer()
-
-   def on_mount(self) -> None:
-      """Load data and set up the table."""
-      self.load_data()
-      self.setup_table()
-      self.populate_table()
 
    def load_data(self) -> None:
       """Load plugins from JSON file."""
@@ -115,6 +110,13 @@ class PluginViewer(App):
 
       table.zebra_stripes = True
       table.cursor_type = "row"
+
+   def on_mount(self) -> None:
+      """Load data and set up the table."""
+      self.load_data()
+      self.setup_table()
+      self.populate_table()
+      self.query_one("#search-box", Input).focus()
 
    def populate_table(self) -> None:
       """Fill the table with plugin data."""
@@ -225,6 +227,16 @@ class PluginViewer(App):
       search_input.value = ""
       self.filtered_plugins = self.plugins.copy()
       self.sort_plugins()
+
+   def action_toggle_focus(self) -> None:
+      """Toggle focus between search box and table."""
+      search_input = self.query_one("#search-box", Input)
+      table = self.query_one("#plugins-table", DataTable)
+
+      if search_input.has_focus:
+         table.focus()
+      else:
+         search_input.focus()
 
 
 if __name__ == "__main__":
