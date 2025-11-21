@@ -97,16 +97,11 @@ class PluginViewer(App):
       """Configure the data table columns."""
       table = self.query_one("#plugins-table", DataTable)
 
-      columns = [
-         ("Plugin Type", "type"),
-         ("Name", "name"),
-         ("Manufacturer", "manufacturer"),
-         ("Description", "description"),
-         ("Investigate", "investigate"),
-      ]
-
-      for label, key in columns:
-         table.add_column(label, key=key, width=20)
+      table.add_column("Plugin Type", key="type", width=15)
+      table.add_column("Name", key="name", width=25)
+      table.add_column("Manufacturer", key="manufacturer", width=20)
+      table.add_column("Description", key="description")
+      table.add_column("Investigate", key="investigate", width=12)
 
       table.zebra_stripes = True
       table.cursor_type = "row"
